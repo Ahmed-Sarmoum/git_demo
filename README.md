@@ -1,3 +1,3 @@
-# git_demo
+# Git Demo
 
 This repo was used to learn how to use git
