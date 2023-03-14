@@ -1,3 +1,3 @@
 const fs = require('fs')
 
-console.log("Hello Git :)")
+console.log("Hello Git And Github :)")
